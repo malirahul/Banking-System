@@ -8,6 +8,19 @@
 <c:import url="/include/header.jsp">
         <c:param name="title" value="Home Page"/>
 </c:import>
+
+<table class="t">
+                <tr>
+                    <td><a href="openacc.jsp"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">New Account</button></a></td>
+                    <td><a href="signup.jsp"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">LogIn</button></a></td>
+                </tr>
+            </table>
+          
+      </div>
+            
+        </div>
+    </nav>
+    
         <%
                 Class.forName("com.mysql.jdbc.Driver");
                 Connection  con=DriverManager.getConnection("jdbc:mysql://localhost:3306/banksystem","root","root");

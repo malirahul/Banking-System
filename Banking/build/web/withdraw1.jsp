@@ -4,7 +4,18 @@
         <c:param name="title" value="Home Page"/>
 </c:import>
 
-
+<table class="t">
+                <tr>
+                    <td><a href="set.jsp"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Set Pin</button></a></td>
+                    <td width="15%"><a href="frony.jsp"><button class="btn btn-outline-success my-2 my-sm-0" onclick="alert('Are you sure you want to LogOut!');" type="submit">LogOut</button></a></td>
+                </tr>
+            </table>
+          
+      </div>
+            
+        </div>
+    </nav>
+    
 <!-- ***** Welcome Area Start ***** -->
     <div class="welcome-area">
 <br/><br/><br/><br/>

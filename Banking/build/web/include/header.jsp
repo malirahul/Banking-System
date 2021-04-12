@@ -4,6 +4,7 @@
         <head>
                 <meta charset="utf-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title><%
                 if(request.getAttribute("title")==null){
@@ -336,20 +337,7 @@
           <span class="navTrigger">
                   <i><h1 class="name"><marquee>Welcome to the Bank</marquee></h1></i>
             </span>
-          <table class="t">
-                <tr>
-                    <td><a href="set.jsp">Set UPI-Pin</a></td>
-                    <td><a href="openacc.jsp">Create Account</a></td>
-                    <td width="15%"><a href="signup.jsp"><input type="button" value="LogIn"></a></td>
-
-                    <td width="15%"><a href="frony.jsp"><input type="button" onclick="alert('Are you sure you want to LogOut!');" value="LogOut"></a></td>
-                </tr>
-            </table>
           
-      </div>
-            
-        </div>
-    </nav>
           
                 
      

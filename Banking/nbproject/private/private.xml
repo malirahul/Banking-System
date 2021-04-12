@@ -3,42 +3,30 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/ministatement.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/opencode.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/images/logo.png</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/userlist.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/signup.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/error.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/withdraw1.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/mini.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/images.jpg</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/src/java/Password/PassEncrypt.java</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/images/customer.png</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/images/Untitled.png</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/logincode.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/frony.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/home.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/css/bootstrap.min.css</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/css/table.css</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/transfer.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/bal.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/bal1.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/code.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/withdrawcode.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/set.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/transfercode.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/withdrawcode.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/forgotPass.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/transfercode.jsp</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/deposit.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/forgotPasscode.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/include/footer.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/depositcode.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/openacc.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/setcode.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/ministatement.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/images/about.jpg</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/userlist.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/withdraw1.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/logincode.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/frony.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/bal1.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/bal.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/deposit.jsp</file>
             <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/withdraw.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/include/header.jsp</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/images/banking_homepage.jpg</file>
-            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/s.jpeg</file>
+            <file>file:/C:/Users/RAHUL%20MALI/OneDrive/Documents/NetBeansProjects/Banking/web/transfer1.jsp</file>
         </group>
     </open-files>
 </project-private>
